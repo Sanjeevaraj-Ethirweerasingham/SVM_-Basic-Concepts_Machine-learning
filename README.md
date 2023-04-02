@@ -1,2 +1,2 @@
 # SVM_-Basic-Concepts_Machine-learning
-Data classification with Support Vector Machines - the flexible and easy-to-use method for separating linear and non-linear data.
+Data classification with Support Vector Machine Algorithm - Includes basic concepts and relavative codes for separating linear and non-linear data.
